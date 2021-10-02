@@ -44,7 +44,7 @@ void deleteHead(Node *&head)
         head->previous = NULL;
         free(node);
     }else{
-        cout<<"Noo Node to delete !!";
+        cout<<"No Node to delete !!";
     }
 }
 
