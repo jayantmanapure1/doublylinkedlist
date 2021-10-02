@@ -45,7 +45,7 @@ int main(){
     a->next=b;
     b->prev=a;
 
-    cout<<"Before Insertion : ";
+    cout<<"Before Insertion :";
     traverForward(head);
     cout<<"\n";
     traverBackward(head);
