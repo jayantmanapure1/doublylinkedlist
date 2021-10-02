@@ -51,7 +51,7 @@ int main(){
     traverBackward(head);
 
     insertAfterNode(a,5);
-    cout<<"After Insertion : ";
+    cout<<"After Insertion :";
     traverForward(head);
     cout<<"\n";
     traverBackward(head);
